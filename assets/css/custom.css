@@ -16,11 +16,17 @@ m:hover {
     background-color: rgba(252, 90, 230, 0.50);
 }
 
-cite {
-    font-size: 20px;
-    padding: 1px 5px 1px 5px;
-    margin: 40px auto;
-    text-align: center;
-    max-width: 10%;
-    border-left: 4px solid #5e42a6;
+.customBody {
+    margin: auto;
+    width: 70%;
+    color: white;
+    text-align: justify;
+    background-color: #1e1e1e;
+    padding: 30pt 60pt 10pt 60pt;
+    letter-spacing: 2.5px;
+}
+
+.biblio {
+    padding-left: 5em;
+    text-indent: -2em;
 }
