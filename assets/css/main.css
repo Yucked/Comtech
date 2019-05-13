@@ -97,7 +97,7 @@ body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 /* Type */
 
 body, input, select, textarea {
-	color: rgba(255, 255, 255, 0.55);
+	color: rgba(255, 255, 255);
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 16.5pt;
 	font-weight: normal;
@@ -1503,7 +1503,7 @@ input[type="submit"], input[type="reset"], input[type="button"], button, .button
 	border: solid 1px !important;
 	border-color: rgba(255, 255, 255, 0.15) !important;
 	border-radius: 3em;
-	color: #ffffff !important;
+	color: #ffffff;
 	cursor: pointer;
 	display: inline-block;
 	font-size: 0.6em;
